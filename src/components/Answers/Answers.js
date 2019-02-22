@@ -5,9 +5,9 @@ import "./Answers.css";
 const Answers = props => {
   let answers = props.answers.map(a => (
     <Answer
-      key={a.id}
-      text={a.text}
-      nextQuestionId={a.nextQuestionId}
+      key={a.Id}
+      text={a.Text}
+      nextQuestionId={a.NextQuestionId}
       solutionId={a.SolutionId}
       onAnswerClick={props.onAnswerClick}
     />

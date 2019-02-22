@@ -4,7 +4,7 @@ import "./Question.css";
 const Question = props => {
   return (
     <div className="Question">
-      <p>{props.QuestionText}</p>
+      <p>{props.questionText}</p>
     </div>
   );
 };

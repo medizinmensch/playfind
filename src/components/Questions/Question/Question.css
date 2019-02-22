@@ -1,21 +1,6 @@
-.question{
-    display: none;
-}
-
-.question p {
-    margin: 0px;
-    padding: 10%;
-    text-align: center;
-    
-}
-
-
-.active{
-    display: block;
-    /* margin: 10%; */
-    text-align: center;
-    background-color: #555;
-    color:#EEE;
-    top: 20%;
-    
+.Question {
+  margin: 0px;
+  padding: 30px;
+  background-color: #444;
+  color: white;
 }

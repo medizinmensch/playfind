@@ -1,9 +1,20 @@
 .Questionbox {
-    position: absolute;
-    text-align: center;
-    top: 5%;
-    bottom: 5%;
-    left: 5%;
-    right: 5%;
-    background-color: brown;
-  }
+  position: absolute;
+  text-align: center;
+  top: 20%;
+  bottom: 15%;
+  left: 8%;
+  right: 8%;
+  /* background-color: brown; */
+  /* transition: all 2s ease-out; */
+}
+
+/* .inactive {
+  opacity: 0.5;
+  transform: translateY(0);
+}
+
+.active {
+  opacity: 0.5;
+  transform: translateY(-100%);
+} */

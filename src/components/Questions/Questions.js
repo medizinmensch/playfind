@@ -20,17 +20,18 @@ const Questions = props => {
     />
   ));
 
-  console.log(data.questions);
+  // console.log(data.questions);
   return <>{getQuestions}</>;
 };
 
 export default Questions;
 
-
-
-<Question key={q.Id} QuestionText={q.QuestionText} Answers={q.Answers} />;
+<Question
+  key={q.Id}
+  QuestionText={q.QuestionText}
+  Answers={q.Answers}
+/>;
 <Questions
-onAnswerClick={this.onAnswerClick}
-activeQuestionId={this.state.activeQuestionId}
-
-/>
+  onAnswerClick={this.onAnswerClick}
+  activeQuestionId={this.state.activeQuestionId}
+/>;
