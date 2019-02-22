@@ -1,0 +1,15 @@
+.Answer {
+  padding: 20px;
+
+  margin: 20px;
+  background-color: #555;
+  color: #eee;
+  box-shadow: none;
+  border: none;
+  transition-duration: 0.2s;
+}
+
+.Answer:hover {
+  background-color: #ccc;
+  color: black;
+}

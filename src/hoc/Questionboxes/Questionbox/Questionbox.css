@@ -1,0 +1,9 @@
+.Questionbox {
+    position: absolute;
+    text-align: center;
+    top: 5%;
+    bottom: 5%;
+    left: 5%;
+    right: 5%;
+    background-color: brown;
+  }
