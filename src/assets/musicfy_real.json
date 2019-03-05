@@ -14,11 +14,11 @@
           "Id": "a9d6b312-d66e-4705-9c8a-1225c26706a3",
           "Text": "tanzbar",
           "NextQuestionId": 7,
-          "SolutionId": 0 
+          "SolutionId": 0
         }
       ]
     },
-	{
+    {
       "Id": 2,
       "QuestionText": "Soll Ihre Musik im Fokus stehen oder soll sie eher im Hintergrund laufen?",
       "Answers": [
@@ -36,7 +36,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 3,
       "QuestionText": "Möchten Sie etwas komplexes, tiefgehendes oder etwas träumerisches hören?",
       "Answers": [
@@ -54,7 +54,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 4,
       "QuestionText": "Muss Ihre Musik Stimme beeinhalten oder kann die Musik auch komplett ohne Gesang sein?",
       "Answers": [
@@ -72,7 +72,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 5,
       "QuestionText": "Möchten Sie sich einfach nur entspannen dabei oder etwas alternatives/spirituelles hören?",
       "Answers": [
@@ -90,7 +90,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 6,
       "QuestionText": "Bestimmen Sie die Art der Musik, die zu Ihrer Stimmung passt!",
       "Answers": [
@@ -120,7 +120,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 7,
       "QuestionText": "Die Entscheidung: Möchten sie elektronische oder \"klassische\" Musik zum Tanzen hören?",
       "Answers": [
@@ -138,7 +138,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 8,
       "QuestionText": "In welchem Geschwindigkeitsbereich soll sich Ihre Musik befinden?",
       "Answers": [
@@ -156,11 +156,11 @@
         }
       ]
     },
-	{
+    {
       "Id": 9,
       "QuestionText": "Bestimmen Sie die Art der Musik, die zu Ihrer Stimmung passt!",
       "Answers": [
-	    {
+        {
           "Id": "f4ecb3eb-c4c3-40fc-8642-77f5f42241dc",
           "Text": "treibend",
           "NextQuestionId": 0,
@@ -180,7 +180,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 10,
       "QuestionText": "Bestimmen Sie die Art der Musik, die zu Ihrer Stimmung passt!",
       "Answers": [
@@ -204,7 +204,7 @@
         }
       ]
     },
-	{
+    {
       "Id": 11,
       "QuestionText": "Bitte spezifizieren Sie die Art der Musik, die Sie hören möchten!",
       "Answers": [
@@ -234,138 +234,144 @@
         }
       ]
     },
-	{
+    {
       "Id": 12,
       "QuestionText": "Welche Musik möchten Sie hören?",
       "Answers": [
         {
           "Id": "5dd9c730-adee-47f2-bb96-2698f1f74114",
           "Text": "80er",
-          "NextQuestionId": ,
+          "NextQuestionId": 0,
           "SolutionId": 18
         },
         {
           "Id": "39e02264-f9db-4da8-8836-499d0d2a6300",
           "Text": "90er",
-          "NextQuestionId": ,
+          "NextQuestionId": 0,
           "SolutionId": 19
         },
         {
           "Id": "8d710932-aa98-42b2-afe7-50fa354ae87d",
           "Text": "Discofox",
-          "NextQuestionId": ,
+          "NextQuestionId": 0,
           "SolutionId": 20
         },
         {
           "Id": "e9b645ce-53f0-4f66-8292-bffdfb587b0b",
           "Text": "Oskars Mainstream (sehr individuell)",
-          "NextQuestionId": ,
+          "NextQuestionId": 0,
           "SolutionId": 21
         }
       ]
     }
+  ],
   "Solutions": [
+    {
+      "Id": 0,
+      "Description": "Sorry, wir haben dafür noch keine PlayList. Aber die kommt bestimmt bald ;)",
+      "Url": "yseichter.de/playfind"
+    },
     {
       "Id": 1,
       "Description": "Shpongle - Codex VI",
       "Url": "https://open.spotify.com/album/49TbbgPIGwnroFSI84jk60?si=i8UrD7oVSqGiPpVU9mH78w"
     },
-	{
+    {
       "Id": 2,
       "Description": "Dream!",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/6pVDGW1IiEzhV0nk2N4P5G?si=8onVg_tRQ6qMe-smCxsCbQ"
     },
-	{
+    {
       "Id": 3,
       "Description": "Yaima",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/2bb0N66PNzwHbh2PuD5Utr?si=h3OTUdQaQ_a5x9ZZhVtTGw"
     },
-	{
+    {
       "Id": 4,
       "Description": "Chill",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/0dLegHC9O8n7hgjfjIh8TU?si=EmszDpskTzmwxUikibyLMQ"
     },
-	{
+    {
       "Id": 5,
       "Description": "Calm Chillgressive",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/11b25ozEyGTjI6lA4WgdKI?si=klMvFe_MTx65LsrBd85-VA"
     },
-	{
+    {
       "Id": 6,
       "Description": "Groovy Chill",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/3rqcnw9jeGDJTMsrKIww6G?si=j5nPF5OdTu-8FzW2EUl_Dg"
     },
-	{
+    {
       "Id": 7,
       "Description": "Draußen, Good Life",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/1nzl62GC8cPIvZG3Xm5ezm?si=J_ZX53f8S8yhb40ed0nl9g"
     },
-	{
+    {
       "Id": 8,
       "Description": "Space Ambient",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/5aer64YTxFNXIv3eHTq0MS?si=0B7PQS_KSCemJEYvMWCHHA"
     },
-	{
+    {
       "Id": 9,
       "Description": "Techno and Friends",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/6k3N7J4qlcK7XGmyJpHHzi?si=L9LelacRQqyluQB3qfY_sQ"
     },
-	{
+    {
       "Id": 10,
       "Description": "AKOHouse",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/36nsYDHn1HRMXCMM8penJB?si=EKvvC-EHSNOT_BfxIzf3jg"
     },
-	{
+    {
       "Id": 11,
       "Description": "Walk!",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/2vVyxILICb9SyeO4GmixbJ?si=CwZY66GwQWSvsY2FKc9x4g"
     },
-	{
+    {
       "Id": 12,
       "Description": "Progressive Trance",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/3EiYYYlObnME7YEcojX741?si=KMyBmlNRQQ-npYWhkU4q5g"
     },
-	{
+    {
       "Id": 13,
       "Description": "Jump!",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/5o4NzDngcy6kHs23AwVv0m?si=ZjiU8IYZQeeWo37DJahV2w"
     },
-	{
+    {
       "Id": 14,
       "Description": "Twilight, Forest",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/3zQ2ghk4f50GvFJWgzBTx9?si=Z96gT7NkRnWXwctsAN2bsg"
     },
-	{
+    {
       "Id": 15,
       "Description": "Travel!",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/4oYaDco8RL6yT9oCNWe64g?si=_Hh_ZLzcSHij_bN4SDL5JQ"
     },
-	{
+    {
       "Id": 16,
       "Description": "Hardstyle",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/0eHd8MhP4EpLsh3Kanx2Xy?si=Q4iD2hM1RB6Hqq38YZ1m_Q"
     },
-	{
+    {
       "Id": 17,
       "Description": "Good old EDM",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/17GAYybn6YJSOEnD6YV1hx?si=XZd32sk7RpqKSWDj2lwxpQ"
     },
-	{
+    {
       "Id": 18,
       "Description": "Old classics (80er)",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/1m1kd4IbKrbd1RgMXgrNKs?si=koETDStRTx2bgaAJ6CKwug"
     },
-	{
+    {
       "Id": 19,
       "Description": "90er",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/3chWher80LLUgx0i7EcH55?si=vJvuzWqOQXiTG7e2DIN0tQ"
     },
-	{
+    {
       "Id": 20,
       "Description": "Discofox",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/0kecsLO1uMzbU3ImXPCsn1?si=FutMDzjGQtSQTWkSc_OS2w"
     },
-	{
+    {
       "Id": 21,
       "Description": "Oskars Mainstream",
       "Url": "https://open.spotify.com/user/jeetee0/playlist/7f5CbFGjgkZjX2nzm8Ybos?si=8voATMPIS6CvrEmj8L6r5g"

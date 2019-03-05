@@ -5,7 +5,6 @@ import Answers from "../../../components/Answers/Answers";
 import "./Questionbox.css";
 
 const Questionbox = props => {
-
   return (
     <div className="Questionbox">
       <Question questionText={props.question.QuestionText} />

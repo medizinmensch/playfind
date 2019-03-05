@@ -6,7 +6,8 @@ const Answer = props => {
     <div className="Answer">
       <button
         type="button"
-        nextquestionid={props.nextQuestionId}
+        nextquestionId={props.nextQuestionId}
+        solutionId={props.solutionId}
         onClick={props.onAnswerClick}
       >
         {props.text}

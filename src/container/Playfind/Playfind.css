@@ -1,32 +1,41 @@
+.backdrop {
+  background-color: #666;
+  position: absolute;
+  top: 5%;
+  bottom: 5%;
+  left: 10%;
+  right: 10%;
+}
+
 .fade {
-    display:none;
+  display: none;
 }
 
-.fade-appear{
-    opacity: 0;
-    z-index: 1;
+.fade-appear {
+  opacity: 0;
+  z-index: 1;
 }
 
-.fade-appear.fade-appear-active{
-    opacity: 1;
-    transition: opacity 2000ms linear;
+.fade-appear.fade-appear-active {
+  opacity: 1;
+  transition: opacity 2000ms linear;
 }
 
-.fade-enter{
-    opacity: 0;
-    /* z-index: 1; */
+.fade-enter {
+  opacity: 0;
+  /* z-index: 1; */
 }
-.fade-enter.fade-enter-active{
-    opacity: 1;
-    transition: opacity 2000ms linear;
+.fade-enter.fade-enter-active {
+  opacity: 1;
+  transition: opacity 2000ms linear;
 }
 
 .fade-exit {
-    opacity: 1;
+  opacity: 1;
 }
 .fade-exit.fade-exit-active {
-    opacity: 0;
-    transition: opacity 2000ms linear;
+  opacity: 0;
+  transition: opacity 2000ms linear;
 }
 .fade-exit-done {
   opacity: 0;
