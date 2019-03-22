@@ -14,8 +14,8 @@ var eShowMode = {
 
 class Playfind extends Component {
   state = {
-    showMode: eShowMode.solution,
-    currentBoxId: 2
+    showMode: eShowMode.questions,
+    currentBoxId: 1
   };
 
   // state = { start values
