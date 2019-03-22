@@ -2,7 +2,7 @@
   "Questions": [
     {
       "Id": 1,
-      "QuestionText": "Willkommen zu Ihrem Musik-Finder - Play & Find. \nSoll Ihre Musik entspannt sein oder möchten Sie dazu tanzen?",
+      "QuestionText": "Willkommen zu Ihrem Musik-Finder - Play & Find. Soll Ihre Musik entspannt sein oder möchten Sie dazu tanzen?",
       "Answers": [
         {
           "Id": "a33838d3-439a-434c-bd6f-32fa7068422c",
@@ -206,7 +206,7 @@
     },
     {
       "Id": 11,
-      "QuestionText": "Bitte spezifizieren Sie die Art der Musik, die Sie hören möchten!",
+      "QuestionText": "Mit welchem Adjektiv bzw. mit welchen Adjektiven würdest du es am ehesten beschreiben?",
       "Answers": [
         {
           "Id": "a4ea6189-5801-4a15-ac05-e865802291cf",

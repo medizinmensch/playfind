@@ -1,16 +1,35 @@
 import React from "react";
+import Button from "react-bootstrap/Button";
+
+import classes from "./Solution.css";
+import jQuery from "jquery";
 
 const Solution = props => {
   return (
-    <>
+    <div className="Solution">
       <h1>Fertig!</h1>
       <p>
-        Okay, wir haben etwas für dich! Wie wäre es mit der{" "}
-        {props.description}-Playlist?
+        Wir haben etwas für dich! Wie wäre es mit der{" "}
+        <b>"{props.description}"</b>-Playlist?
       </p>
-      <a href={props.url}>Click me!</a>
-      <button type="button" onClick={props.resetQuiz}>Start over</button>
-    </>
+      <div>
+        <Button
+          className="Button"
+          href={props.url}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Bring mich zur Playlist
+        </Button>
+        <Button
+          className="Button"
+          variant="secondary"
+          onClick={props.resetQuiz}
+        >
+          Lass mich nochmal suchen
+        </Button>
+      </div>
+    </div>
   );
 };
 

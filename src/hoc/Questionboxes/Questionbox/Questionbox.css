@@ -5,16 +5,8 @@
   bottom: 15%;
   left: 8%;
   right: 8%;
-  /* background-color: brown; */
-  /* transition: all 2s ease-out; */
 }
 
-/* .inactive {
-  opacity: 0.5;
-  transform: translateY(0);
+.text-center {
+  height: 100%;
 }
-
-.active {
-  opacity: 0.5;
-  transform: translateY(-100%);
-} */
