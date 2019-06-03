@@ -5,7 +5,7 @@ import Question from "./Question/Question";
 var classnames = require("classnames");
 
 const Questions = props => {
-  var data = require("../../assets/musicfy3.json");
+  var data = require("../../assets/musicfy_real.json");
   let getQuestions = data.questions.map(q => (
     <Question
       key={q.Id}
