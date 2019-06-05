@@ -1,0 +1,12 @@
+.Questionbox {
+  position: absolute;
+  text-align: center;
+  top: 20%;
+  bottom: 15%;
+  left: 8%;
+  right: 8%;
+}
+
+.text-center {
+  height: 100%;
+}

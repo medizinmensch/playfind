@@ -1,0 +1,24 @@
+.Solution {
+  position: absolute;
+  text-align: center;
+  background-color: #333;
+  color: white;
+  top: 20%;
+  bottom: 30%;
+  left: 8%;
+  right: 8%;
+  display: flex;
+  flex-direction: column;
+  vertical-align: middle;
+  justify-content: center;
+}
+
+
+.Solution h1,
+p {
+  padding: 15px;
+}
+
+.Solution .Button {
+  margin: 10px;
+}
