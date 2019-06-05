@@ -1,9 +1,6 @@
 import React from "react";
 import Button from "react-bootstrap/Button";
 
-import classes from "./Solution.css";
-import jQuery from "jquery";
-
 const Solution = props => {
   return (
     <div className="Solution">
