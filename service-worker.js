@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/playfind/precache-manifest.c7ff1b20b1afe0d3fe28912e314da23d.js"
+  "/playfind/precache-manifest.e3e15ba8e232c418f4f3f09e625aaabd.js"
 );
 
 workbox.clientsClaim();
