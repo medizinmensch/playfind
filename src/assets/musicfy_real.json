@@ -2,7 +2,7 @@
   "Questions": [
     {
       "Id": 1,
-      "QuestionText": "Willkommen zu Ihrem Musik-Finder - Play & Find. Soll Ihre Musik entspannt sein oder möchten Sie dazu tanzen?",
+      "QuestionText": "Willkommen zu Ihrem Musik-Finder: Play & Find! Dieses Projekt ist kurzfristig zusammengehackt worden. Entwicklung wurde übernommen von @medizinmensch, die Musikpfade und die Musikauswahl der Spotify Playlisten Stammen von Kinetic Energy / @Jeetee0. Achtung: Die Datenbank and Musik wurde nicht vollständig zuende geführt - es gibt also Dead-Ends. In diesem Fall einfach nochmal einen neuen Pfad probieren. Frage 1: Soll Ihre Musik entspannt sein oder möchten Sie dazu tanzen?",
       "Answers": [
         {
           "Id": "a33838d3-439a-434c-bd6f-32fa7068422c",
